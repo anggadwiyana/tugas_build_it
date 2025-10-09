@@ -26,7 +26,6 @@ int main() {
     for (int i = 0; i < n; i++) {
         printf("%s ", x[i]);
     }
-    printf("\n");
 
     return 0;
 }
